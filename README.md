@@ -22,6 +22,10 @@ Build out python project scaffold:
 * command-line-tool
 * Microservice
 
+1. Create a virtualenv: `virtualenv ~/.venv`
+2. Edit my `~/.bashrc`
+
+
 ## Command-Lines Tools
 
 ## Microservices
