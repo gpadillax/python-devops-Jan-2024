@@ -12,6 +12,15 @@ From zero repository for doing Python Devops work
 
 ### Github Codespaces
 
+Build out python project scaffold:
+
+* Makefile
+* requirments.txt
+* test_library.py
+* python_library
+* Dockerfile
+* command-line-tool
+* Microservice
 
 ## Command-Lines Tools
 
