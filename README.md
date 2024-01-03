@@ -8,7 +8,7 @@ From zero repository for doing Python Devops work
 
 ### Colab Notebook
 
-* This is an example of how to use [colab]
+* This is an example of how to use [colab]https://github.com/gpadillax/python-devops-Jan-2024/blob/main/getting_started_python.ipynb
 
 ### Github Codespaces
 
