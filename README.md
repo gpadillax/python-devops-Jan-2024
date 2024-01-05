@@ -32,4 +32,3 @@ Build out python project scaffold:
 
 ## Containerized Continuos Delivery
 
-r
